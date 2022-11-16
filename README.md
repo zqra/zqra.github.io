@@ -5,4 +5,4 @@ My favorite stuff
 - anime
 - studying
 
-![Ice cream](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruceeats.com%2Fwhat-is-ice-cream-1328784&psig=AOvVaw0-WYZpEk-T7USCKO0V2YCv&ust=1668645761523000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCnkJS8sfsCFQAAAAAdAAAAABAO)
+![Ice cream](https://www.google.com/search?q=ice+cream&tbm=isch&ved=2ahUKEwjujfvPu7H7AhVOy4sBHYUpBDkQ2-cCegQIABAA&oq=ice+cream&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzIHCAAQsQMQQzoKCAAQsQMQgwEQQzoICAAQgAQQsQM6CwgAEIAEELEDEIMBOgUIABCABDoICAAQsQMQgwFQzwdY6ydglStoAHAAeAOAAf0BiAH1DJIBBTguNS4xmAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=nDF0Y-7PEM6Wr7wPhdOQyAM&bih=657&biw=1366&rlz=1C1CHBF_enPH1019PH1020#imgrc=q3f9jnXiW215dM)
