@@ -14,7 +14,7 @@
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
 | tapsilog | lumpia | coffee | ice cream | pizza |
-
+| pandesal | cake | fries | burger | |
 
 
 
