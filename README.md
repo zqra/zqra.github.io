@@ -11,7 +11,7 @@
 
 [`LMS`](https://jhsportal.adnu.edu.ph)
 
-![Ateneo](![image](https://user-images.githubusercontent.com/118236783/202339744-0ed75659-053e-4300-b0a6-3a0a49dc4c48.png)
+![`Ateneo`](![image](https://user-images.githubusercontent.com/118236783/202339744-0ed75659-053e-4300-b0a6-3a0a49dc4c48.png)
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
