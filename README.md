@@ -1,9 +1,10 @@
 ### Welcome to *zqra.github.io*
 ---
-**Getting to know me**
+**All about me!!**
 
 Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
 > I like the color purple
+
 
 **My favorite stuff**
 - ice cream
@@ -30,3 +31,4 @@ Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
 - [ ] Contact the media
 
 That is so funny! :joy:
+
