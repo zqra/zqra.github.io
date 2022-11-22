@@ -3,6 +3,7 @@
 **Getting to know me**
 Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
 > I like the color purple
+
 **My favorite stuff**
 - ice cream
 - anime
