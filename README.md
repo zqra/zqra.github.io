@@ -22,7 +22,7 @@ Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
 | tapsilog | lumpia | coffee | ice cream | pizza |
-| pandesal | cake | fries | burger | |
+| pandesal | cake | fries | burger | shawarma |
 
 
 
