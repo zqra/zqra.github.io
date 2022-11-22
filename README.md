@@ -1,5 +1,8 @@
 ### Welcome to *zqra.github.io*
 ---
+**Getting to know me**
+Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  ==15== years old
+
 **My favorite stuff**
 - ice cream
 - anime
