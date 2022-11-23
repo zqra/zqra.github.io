@@ -46,4 +46,5 @@ Hello, I'm Zara Jovy N. Leonardo from LG 9-Chabanel. I'm 15 years old and I live
 ---
 ## *My Favorite's*
 | Color | Number | Game | Food | Drink | Sport |
+|-------|--------|------|------|-------|-------|
 | Purple | 27 | CoD | Lasagna | Juice | Badminton |
