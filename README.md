@@ -32,7 +32,14 @@ Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
 
 - [x] Listening while discussing
 - [x] Note taking
-- [ ] Study
+- [ ] Participating
 
 That is so funny! :joy:
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
