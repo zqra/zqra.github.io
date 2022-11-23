@@ -7,7 +7,7 @@ Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
 > 
 > I like to play badminton
 > 
-> I mostly spent my time on scrolling thourgh tiktok
+> I mostly spent my time on scrolling through tiktok
 
 
 **My favorite stuff**
@@ -30,9 +30,9 @@ Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
 
 
 
-- [x] Write the press release
-- [x] Update the website
-- [ ] Contact the media
+- [x] Listening while discussing
+- [x] Note taking
+- [ ] Study
 
 That is so funny! :joy:
 
