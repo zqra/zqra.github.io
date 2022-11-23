@@ -2,7 +2,8 @@
 ---
 **All about me!!**
 
-Hi! I am Zara Jovy N. Leonardo, I'm from LG 9-Chabanel I'm  *15* years old
+Hi! I am Zara!!
+
 > I like the color purple
 > 
 > I like to play badminton
@@ -38,8 +39,6 @@ That is so funny! :joy:
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+Hello, I'm Zara Jovy N. Leonardo from LG 9-Chabanel. I'm 15 years old and I live in Naga City.
 }
 ```
